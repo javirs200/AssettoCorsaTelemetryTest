@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("p1.App")
+    mainClass.set("AssettoCorsaTelemetryTest.App")
 }
 
 tasks.named<Test>("test") {
